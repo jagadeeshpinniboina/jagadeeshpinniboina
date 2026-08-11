@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Jagadeesh 👋
 
-<!--
-**jagadeeshpinniboina/jagadeeshpinniboina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE (AI & ML) Graduate | Software Developer | AI/ML | Data Analytics | Cloud
 
-Here are some ideas to get you started:
+I'm passionate about building practical solutions, learning new technologies, and turning ideas into real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Python, Java, SQL
+- Machine Learning & Data Analysis
+- Full-Stack Development
+- AWS & OCI Cloud
+
+### 🚀 Projects
+- Crop Recommendation System using Machine Learning
+- Full-Stack Web Applications
+- Data Analysis & AI/ML Projects
+
+### 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/jagadeeshpinniboina/
+- Portfolio: https://jagadeeshpinniboina.github.io/
