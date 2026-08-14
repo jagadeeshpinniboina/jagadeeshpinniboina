@@ -158,11 +158,11 @@ Designed and deployed a cloud-based web application using **AWS EC2 and S3**. Wo
 
 ## 📚 Currently Learning
 
-- 🤖 Generative AI
-- 🐍 Python & ☕ Java (advanced)
+- 🤖 Generative AI & Large Language Models(LLMs)
+- 🐍 Python & ☕ Java Development
 - 🗄️ SQL
 - 🌐 MERN Stack & Full-Stack Development
-- ☁️ Cloud Technologies
+- ☁️ Cloud Technologies & AWS 
 - 🛠️ Modern AI/developer tools — via a 6-month **TalentSprint** training program
 
 ---
