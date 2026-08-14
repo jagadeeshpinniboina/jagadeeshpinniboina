@@ -46,14 +46,14 @@
 
 ## 👋 About Me
 
-I'm a Computer Science graduate specializing in **AI and Machine Learning**, based in Vijayawada, Andhra Pradesh, India 🇮🇳. I hold a **B.Tech from Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology**, and I'm currently a **Trainee**, deepening my expertise through a 6-month TalentSprint training program.
+I'm a Computer Science graduate specializing in AI & Machine Learning, with a B.Tech from Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology. I enjoy building practical solutions using Python, Java, Machine Learning, Data Analytics, and Full-Stack technologies.
 
-I have a strong interest in **Python, Java, software development, and data-driven problem solving**. I enjoy building practical projects, learning new technologies, and understanding how technology can solve real-world problems. Right now, I'm focused on documenting my projects, skills, and learning journey right here on GitHub.
+I'm passionate about turning ideas into real-world applications, solving problems through code, and continuously learning new technologies. I use GitHub to document my projects, experiments, and technical learning journey.
 
-- 🎯 **Career Goals:** Seeking entry-level opportunities in **Software Engineering, Python/Java Development, Data Analytics, or AI/ML**, where I can contribute to real projects, strengthen my technical skills, and grow into a well-rounded engineer across software, data, and AI.
-- 💡 **Interests:** Python & Java Development • Artificial Intelligence & Machine Learning • Data Analytics • Building Real-World Projects
-- ⚡ **Fun Fact:** I enjoy turning things I learn into small projects because building something myself helps me understand the concept much better.
-
+- 🎯 Career Goal: Seeking entry-level opportunities in Software Engineering, Python/Java Development, Data Analytics, or AI/ML.
+- 💡 Interests: • AI & Machine Learning • Data Analytics • Software Development • Full-Stack Development
+- 🚀 Currently Focused On: Building practical projects, strengthening programming fundamentals, and exploring modern AI and cloud technologies.
+- ⚡ Fun Fact: I learn best by building—turning concepts into small projects helps me understand them deeply.
 ---
 
 ## 🛠️ Technical Skills
