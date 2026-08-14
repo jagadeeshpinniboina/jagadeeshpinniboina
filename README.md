@@ -145,14 +145,14 @@ Designed and deployed a cloud-based web application using **AWS EC2 and S3**. Wo
 
 ## 🏆 Achievements & Certifications
 
-- 📄 **IEEE Research Publication** — *"A Multi-stage Hybrid Deep Learning Model for Brain Tumor Classification"*, ICSFT 2026
+- 📄 **IEEE Research Publication** — *A Multi-stage Hybrid Deep Learning Model for Brain Tumor Classification* — ICSFT 2026
 - 🥈 **NPTEL** — Silver Certificate in Machine Learning for Soil and Crop Management
-- ☁️ **Oracle** — Generative AI & Data Science Professional Certification
+- 🤖 **Oracle** — Generative AI & Data Science Professional Certification
 - ☁️ **AWS Academy** — Cloud GenAI Virtual Internship
 - 📊 **Tata (Forage)** — GenAI Powered Data Analytics Job Simulation
-- 💻 **Wipro** — Digital Skills Readiness Program Course Completion Certificate
+- 💻 **Wipro** — Digital Skills Readiness Program — Course Completion Certificate
 - 🤖 **UiPath Academy** — Automation Explorer Training
-- 🎮 **Google Cloud** — Google Cloud Arcade Study Jam, Cohort 2 Certified
+- ☁️ **Google Cloud** — Google Cloud Arcade Study Jam, Cohort 2 Certified
 
 ---
 
