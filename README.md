@@ -26,6 +26,8 @@
 <a href="https://www.linkedin.com/in/jagadeesh-pinniboina-a9452235a">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="https://jagadeeshpinniboina.github.io/"> <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-111827?style=for-the-badge&amp;logoColor=white" alt="Portfolio"/> 
+</a>
 <a href="mailto:pinniboinajagadeesh76@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
 </a>
@@ -41,17 +43,6 @@
 
 <hr>
 
-### 🚀 Turning ideas into intelligent, real-world applications
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jagadeeshpinniboina.github.io/)
-<!-- Add your Resume link below when ready -->
-<!-- [![Resume](https://img.shields.io/badge/Resume-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](ADD_RESUME_LINK) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadeesh-pinniboina-a9452235a)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pinniboinajagadeesh76@gmail.com)
-
-</div>
-
----
 
 ## 👋 About Me
 
