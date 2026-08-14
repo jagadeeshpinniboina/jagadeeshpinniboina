@@ -132,8 +132,8 @@ Designed and deployed a cloud-based web application using **AWS EC2 and S3**. Wo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jagadeeshpinniboina&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="Jagadeesh's GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeshpinniboina&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=jagadeeshpinniboina&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Jagadeesh's GitHub Stats"/>
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jagadeeshpinniboina&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagadeeshpinniboina&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak"/>
 
