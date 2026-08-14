@@ -11,8 +11,11 @@
 
 <div align="center">
 
-<!-- Animated typing banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Jagadeesh+Pinniboina;Software+Developer+%7C+AI%2FML+%26+GenAI+Engineer;Data+Analytics+%7C+Full+Stack+Developer" alt="Typing SVG" />
+<!-- Gradient wave banner with name -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,18,24&height=200&section=header&text=Jagadeesh%20Pinniboina&fontSize=45&fontColor=ffffff&desc=Software%20Developer%20%7C%20AI%2FML%20%26%20GenAI%20Engineer%20%7C%20Data%20Analytics%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=75&animation=fadeIn" alt="Header Banner" />
+
+<!-- Animated typing banner: types one line fully, pauses, erases, then types the next -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=2EA3F7&center=true&vCenter=true&width=800&height=50&lines=Hi+%F0%9F%91%8B+I'm+Jagadeesh+Pinniboina;Software+Developer+%7C+AI%2FML+%26+GenAI+Engineer;Data+Analytics+%7C+Full+Stack+Developer;Turning+ideas+into+intelligent%2C+real-world+apps" alt="Typing SVG" />
 
 ### 🚀 Turning ideas into intelligent, real-world applications
 
