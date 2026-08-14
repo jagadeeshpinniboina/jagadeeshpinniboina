@@ -150,7 +150,7 @@ Designed and deployed a cloud-based web application using **AWS EC2 and S3**. Wo
 - ☁️ **Oracle** — Generative AI & Data Science Professional Certification
 - ☁️ **AWS Academy** — Cloud GenAI Virtual Internship
 - 📊 **Tata (Forage)** — GenAI Powered Data Analytics Job Simulation
-- 💻 **Wipro** — Digital Skills Readiness Program — Course Completion Certificate
+- 💻 **Wipro** — Digital Skills Readiness Program Course Completion Certificate
 - 🤖 **UiPath Academy** — Automation Explorer Training
 - 🎮 **Google Cloud** — Google Cloud Arcade Study Jam, Cohort 2 Certified
 
