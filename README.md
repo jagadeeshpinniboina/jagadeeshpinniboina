@@ -158,7 +158,7 @@ Designed and deployed a cloud-based web application using **AWS EC2 and S3**. Wo
 
 ## 📚 Currently Learning
 
-- 🤖 Generative AI & Large Language Models(LLMs)
+- 🤖 Generative AI & Large Language Models (LLMs)
 - 🐍 Python & Java Development
 - 🗄️ SQL & Database Management
 - 🌐 Full-Stack Web Development
