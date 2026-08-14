@@ -11,11 +11,35 @@
 
 <div align="center">
 
-<!-- Gradient wave banner with name -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,6,12,18,24&amp;height=200&amp;section=header&amp;text=Jagadeesh%20Pinniboina&amp;fontSize=45&amp;fontColor=ffffff&amp;desc=Software%20Developer%20%7C%20AI%2FML%20%26%20GenAI%20Engineer%20%7C%20Data%20Analytics%20%7C%20Full%20Stack%20Developer&amp;descSize=14&amp;descAlignY=75&amp;animation=fadeIn" alt="Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6A11CB,100:2575FC&amp;height=220&amp;section=header&amp;text=Jagadeesh%20Pinniboina&amp;fontSize=45&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Software%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Data%20Analytics&amp;descSize=16&amp;descAlignY=65&amp;animation=fadeIn" alt="Jagadeesh Pinniboina Header"/>
 
-<!-- Animated typing banner: types one line fully, pauses, erases, then types the next -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1200&amp;color=2EA3F7&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=50&amp;lines=Hi+%F0%9F%91%8B+I'm+Jagadeesh+Pinniboina;Software+Developer+%7C+AI%2FML+%26+GenAI+Engineer;Data+Analytics+%7C+Full+Stack+Developer;Turning+ideas+into+intelligent%2C+real-world+apps" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=2575FC&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=50&amp;lines=Hi+%F0%9F%91%8B+I'm+Jagadeesh+Pinniboina;Software+Developer+%7C+AI%2FML+Engineer;Data+Analytics+%7C+Full+Stack+Developer" alt="Typing SVG"/>
+
+<br>
+
+<p>
+<a href="https://github.com/jagadeeshpinniboina">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+</a>
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
+</a>
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=jagadeeshpinniboina&amp;style=for-the-badge&amp;color=6A11CB&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/jagadeeshpinniboina?style=for-the-badge&amp;color=2575FC&amp;label=FOLLOWERS" alt="GitHub Followers"/>
+</p>
+
+</div>
+
+<hr>
 
 ### 🚀 Turning ideas into intelligent, real-world applications
 
