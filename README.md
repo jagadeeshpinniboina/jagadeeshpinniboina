@@ -23,10 +23,10 @@
 <a href="https://github.com/jagadeeshpinniboina">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
 </a>
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/jagadeesh-pinniboina-a9452235a">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:pinniboinajagadeesh76@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
 </a>
 </p>
