@@ -107,21 +107,20 @@ I'm passionate about turning ideas into real-world applications, solving problem
 
 ## 🚀 Featured Projects
 
-### 🧠 [Brain Tumor Detection using Deep Learning](ADD_GITHUB_LINK)
-Architected a hybrid deep learning pipeline using **YOLOv11 and CNN** for automated MRI image segmentation and classification. Implemented image enhancement and data augmentation techniques to improve training diversity and diagnostic performance.
+### 🧠 [Brain Tumor Detection & Classification using Deep Learning](ADD_GITHUB_LINK)
+Architected a hybrid deep learning pipeline using **YOLOv11 and CNN** for automated MRI image segmentation and classification. Implemented image enhancement and data augmentation techniques to improve training diversity and model performance.
 
 **Tech Stack:** Python • YOLOv11 • CNN • Deep Learning • OpenCV
 <!-- 🔗 GitHub: ADD_GITHUB_LINK | 🌐 Live Demo: ADD_LIVE_DEMO_LINK -->
 
 ### ⭐ [Crop Recommendation System using Machine Learning](ADD_GITHUB_LINK)
-Developed an end-to-end crop recommendation engine by analyzing soil composition and climatic parameters, achieving **85% classification accuracy**. Applied feature engineering and data preprocessing to optimize the agricultural dataset.
+Developed an end-to-end crop recommendation system using soil composition and climatic parameters. Applied data preprocessing, feature engineering, and a Random Forest classification approach for crop recommendation.
 
 **Tech Stack:** Python • Machine Learning • Random Forest • Pandas • NumPy
 <!-- 🔗 GitHub: ADD_GITHUB_LINK | 🌐 Live Demo: ADD_LIVE_DEMO_LINK -->
 
 ### ☁️ [Large Scale Web Application Deployment](ADD_GITHUB_LINK)
-Designed and deployed a fault-tolerant web application using **AWS EC2 and S3**, achieving **99.9% application uptime** during high-traffic testing. Configured Elastic Load Balancing and optimized S3 storage for improved data retrieval and reduced latency.
-
+Designed and deployed a cloud-based web application using **AWS EC2 and S3**. Worked with cloud infrastructure and storage services to support scalable application deployment.
 **Tech Stack:** AWS EC2 • AWS S3 • Cloud Computing • Elastic Load Balancing
 <!-- 🔗 GitHub: ADD_GITHUB_LINK | 🌐 Live Demo: ADD_LIVE_DEMO_LINK -->
 
