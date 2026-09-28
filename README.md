@@ -23,7 +23,7 @@
 <a href="https://github.com/jagadeeshpinniboina">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/jagadeesh-pinniboina-a9452235a">
+<a href="https://in.linkedin.com/in/jagadeesh-pinniboina">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://jagadeeshpinniboina.github.io/"> <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-111827?style=for-the-badge&amp;logoColor=white" alt="Portfolio"/> 
@@ -182,7 +182,7 @@ Designed and deployed a cloud-based web application using **AWS EC2 and S3**. Wo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadeesh-pinniboina-a9452235a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/jagadeesh-pinniboina)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jagadeeshpinniboina)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2EA3F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jagadeeshpinniboina.github.io/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pinniboinajagadeesh76@gmail.com)
